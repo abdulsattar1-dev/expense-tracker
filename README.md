@@ -20,7 +20,7 @@ Track your daily spending. Add expenses, see the total in rupees, and delete wha
 
 ## 🛠️ Run it on your computer
 ```bash
-git clone https://github.com/abdulsattarnangri7-desktoop/expense-tracker.git
+git clone https://github.com/abdulsattar1-dev/expense-tracker.git
 cd expense-tracker
 npm install
 npm run dev
@@ -32,4 +32,4 @@ React 19 · Vite · localStorage · CSS
 
 ## 👤 Author
 **Abdul Sattar** — WordPress & React Developer
-[GitHub](https://github.com/abdulsattarnangri7-desktoop) · [Portfolio](http://abdulsattarportfolio.free.nf)
+[GitHub](https://github.com/abdulsattar1-dev) · [Portfolio](http://abdulsattarportfolio.free.nf)
