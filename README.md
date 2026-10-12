@@ -2,7 +2,7 @@
 
 Track your daily spending. Add expenses, see the total in rupees, and delete what you don't need. Your data stays saved after you refresh the page.
 
-**🔗 Live demo:** _add your Vercel link here_
+**🔗 Live demo:** https://expense-tracker-beige-pi-76.vercel.app
 
 ## ✨ Features
 - Add an expense with a name and amount (Rs)
